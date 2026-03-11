@@ -1,4 +1,20 @@
 body{
     background-color: lightblue;
     font-family: Arial;
+    text-align: center;
+}
+
+h1{
+    color: rgb(254, 1, 1);
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+img.s{
+    width: 10px;
+    height: 10px;
 }
